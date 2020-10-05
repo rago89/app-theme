@@ -13,7 +13,7 @@ A professional web design Company, created with HTML and CSS.
 * [Launch](#)
 
 ## General info
-Making a responsive web design, work with git and GiyHub, in the secod week of incremental development in HYF Belgium program.	
+Making a responsive web design, work with Git and GiyHub, in the second week of incremental development in HYF Belgium program.	
 ## Technologies
 Project is created with:
 
