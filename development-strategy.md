@@ -1,30 +1,44 @@
 # Development Strategy
 
-> `name-of-project`
+> `app-theme`
 
-write a short description of your project:
+- Project's Description:
+
 - who would want to use it?
+
+Building a application theme for apple devices owners.
+
 - why would they want to use it?
+
+This is a soft and lovely theme with some gorgeous customizable icons oriented for teenagers in love.
 
 ## Wireframe
 
+- [Home page](https://wireframe.cc/Amd3DJ)
+- [About](https://wireframe.cc/kGalXV)
+- [Services](https://wireframe.cc/z3znq7)
+- [Contact](https://wireframe.cc/T9j2qt)
+
+In progress
+
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
+
 ![wireframe]()
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+[repository and live demo](https://rago89.github.io/app-theme/.)
 
 ### Repo
 
-- Generate from Template
+- Generate Template
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. \_\_
 
-__full user story description__
+**full user story description**
 
 ### Repo
 
@@ -32,22 +46,33 @@ what branch(es) did you work on?
 
 ### HTML
 
-what did you change in the HTML and why?
+In progress.
 
 ### CSS
 
-what did you change in the CSS and why?
+In progress
 
-## 2. ...
+## 2. Terminal
 
-...
-
-...
+1. Set up your repository and clone it
+2. Write a development strategy
+3. Set up a project board on your repo
+4. Create one issue per step, move them to the board
+   for each step
+5. Move that issue into in progress
+6. Create a new branch for each page locally
+7. Write Webs code on that branch
+8. Push the branch to your repository
+9. Create a PR linked to this issue
+10. Move the issue to ready for review
+11. Merge the PR, closing this step's issue
+12. Move the issue into done
+13. Pull the new master branch to your computer
+14. Continue to the next step
 
 ## Finishing Touches
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+Improving Readme with the link below.
+
+- [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - Validate code to check for any last mistakes
