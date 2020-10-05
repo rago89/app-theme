@@ -19,13 +19,6 @@ This is a soft and lovely theme with some gorgeous customizable icons oriented f
 - [Services](https://wireframe.cc/z3znq7)
 - [Contact](https://wireframe.cc/T9j2qt)
 
-In progress
-
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-
-![wireframe]()
-
 ## 0. Set-Up
 
 [repository and live demo](https://rago89.github.io/app-theme/.)
