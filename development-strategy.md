@@ -36,21 +36,19 @@ In progress
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. \_\_
-
-**full user story description**
+## 1. Full user story description
 
 ### Repo
 
-what branch(es) did you work on?
+In progress...
 
 ### HTML
 
-In progress.
+In progress...
 
 ### CSS
 
-In progress
+In progress...
 
 ## 2. Terminal
 
