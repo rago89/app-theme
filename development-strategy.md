@@ -77,18 +77,25 @@ This is a soft and lovely theme with some gorgeous customizable icons oriented f
 
 3. Add file `style.css`.
 
-- Stile the html pages.
+- Style the html pages.
 
 ## 2. Terminal
 
-1. Set up your repository and clone it
-2. Write a development strategy
-3. Set up a project board on your repo
-4. Create a new branch for each page locally
-5. Write Webs code on that branch
-6. Push the branch to your repository
-7. Merge the PR.
-8. Pull the new master branch to your computer
+0. set up your repository and clone it
+1. write a development strategy
+2. set up a project board on your repo
+3. create one issue per step, move them to the board
+4. for each step
+   1. move that issue into _in progress_
+   2. create a new branch locally
+   3. write your new code on that branch
+   4. push the branch to your repository
+   5. create a PR linked to this issue
+   6. move the issue to _ready for review_
+   7. merge the PR, closing this step's issue
+   8. move the issue into _done_
+   9. pull the new `master` branch to your computer
+   10. continue to the next step
 
 ## Finishing Touches
 
