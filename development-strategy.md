@@ -39,29 +39,29 @@ This is a soft and lovely theme with some gorgeous customizable icons oriented f
 
    - Create a Header and Nav menu.
    - Create _Showcase's_ section.
-   - Create a section page's with core features .
-   - Create a info section with a mobile photo and Core Features.
-   - Create a section with a resume of Company's info and Newsletter.
+   - Create a section page's with core features.
+   - Create an info section with a mobile photo and Core Features.
+   - Create a section with a resume of the Company's info and Newsletter.
    - Create a footer with the Copyright.
 
-3. Create a about page with file named `about.html`.
+3. Create an about page with a file named `about.html`.
 
-   - Keep the Header and nav menu from a`index.html`
-   - Create a Subheader with the tittle **About**.
+   - Keep the Header and nav menu from `index.html`
+   - Create a Subheader with the title **About**.
    - Create a section with **Who We Are** and **What We Do** description.
    - Keep the Company section and footer from `index.html`.
 
-4. Create a Services page with file named `services.html`.
+4. Create a Services page with a file named `services.html`.
 
-   - Keep the Header and nav menu from a`index.html`
-   - Create a Subheader with the tittle **Services**.
-   - Create a section with the services that are offered and description of each one.
+   - Keep the Header and nav menu from a `index.html`
+   - Create a Subheader with the title **Services**.
+   - Create a section with the services that are offered and a description of each one.
    - Keep the Company section and footer from `index.html`.
 
-5. Create a Contact page with file named `contact.html`.
+5. Create a Contact page with a file named `contact.html`.
 
-   - Keep the Header and nav menu from a`index.html`
-   - Create a Subheader with the tittle **Contact**.
+   - Keep the Header and nav menu from a `index.html`
+   - Create a Subheader with the title **Contact**.
    - Create a form to **Get in Touch** with the company.
    - Keep the Company section and footer from `index.html`.
 
