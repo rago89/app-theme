@@ -185,7 +185,7 @@ img {
 }
 
 #page p {
-  color: #626162;
+  color: #4f4f4f;
 }
 
 /* SERVICES */
@@ -201,6 +201,10 @@ img {
 
 .services ul li:nth-child(even) {
   background: #38e2f9ab;
+  color: #fff;
+}
+
+#pageserv p {
   color: #fff;
 }
 
