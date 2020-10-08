@@ -7,7 +7,8 @@ A professional web design Company, created with HTML and CSS.
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [launch](#lauch)
+* [Screenshots](#Screenshots)
+* [launch](https://rago89.github.io/app-theme/)
 * [Status](#status)
 * [Contributions](#contributions)
 * [Launch](#)
@@ -20,10 +21,15 @@ Project is created with:
 * HTML5
 * CSS
 
+## Screenshots
+
+
+
 ## Status
 
-In progress.
+Project is: finished, allways updating improvements.
 
 ## Contributions
 
 All contributions are welcome.
+
