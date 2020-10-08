@@ -26,7 +26,7 @@ Project is created with:
 
 ## Screenshots
 
-![Homepage Screenshot](img/Screenshot.png)
+![Homepage Screenshot](img/Screenshot1.png)
 
 ## Status
 
